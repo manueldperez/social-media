@@ -4,6 +4,10 @@
 html {
     font-family: 'Nanum Gothic', sans-serif;
 }
+a {
+    text-decoration: none;
+}
+/****************************** HEADER ******************************/
 header {
     background: #4275F5;
     padding: 0.5em;
@@ -66,4 +70,56 @@ header .search-area {
     width: 20%;
     margin-left: -150px;
     text-align: right;
+}
+/****************************** TOP AREA ******************************/
+
+#top-area {
+    padding: 200px 15px 90px 15px;
+    background: url(https://iso.500px.com/wp-content/uploads/2014/06/W4A2827-1.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#top-area .profile-info .user-img {
+    padding: 10px;
+    display: inline-block;
+}
+#top-area .profile-info .user-img img {
+    border-radius: 50%;
+}
+#top-area .profile-info .user-details {
+    display: inline-block;
+    vertical-align: top;
+    width: 40%;
+    padding-left: 20px;
+}
+#top-area .profile-info .user-details h3 {
+    color: white;
+    font-size: 24px;
+    font-weight: 300;
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+#top-area .profile-info .user-details a {
+    display: inline-block;
+    margin-left: -4px;
+    width: 20%;
+    margin-right: 20%;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    font-size: 12px;
+    padding: 10px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background: rgba(255, 255, 255, 0.3);
+    transition: background .4s ease-in-out;
+}
+#top-area .profile-info .user-details a:nth-child(2) {
+    margin-right: 0;
+}
+#top-area .profile-info .user-details a:hover {
+    background: #2196F3;
 }
