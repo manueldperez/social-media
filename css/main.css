@@ -1,0 +1,69 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+header {
+    background: #4275F5;
+    padding: 0.5em;
+}
+header a {
+    color: white;
+    text-decoration: none;
+    font-weight: 200;
+}
+header .menu-area ul li, .search-area ul li {
+    display: inline-block;
+}
+header .logo-area {
+    color: white;
+    display: inline-block;
+    width: 20%;
+    margin-left: -4px;
+    padding-left: 40px;
+}
+header .menu-area {
+    color: white;
+    display: inline-block;
+    width: 20%;
+    margin-left: -4px;
+    border-right: 1px solid rgba(255, 255, 255, 0.3);
+    text-align: right;
+    padding-right: 50px;
+}
+header .menu-area ul li {
+    margin-right: 20px;
+}
+header .menu-area ul li:nth-child(2) {
+    margin-right: -20px;
+}
+header .icon-links {
+    color: white;
+    display: inline-block;
+    margin-left: -4px;
+    padding-left: 30px;
+    border-right: 1px solid rgba(255, 255, 255, 0.3);
+    padding-right: 30px;
+}
+header .icon-links ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+header .icon-links ul li:nth-child(3) {
+    margin-right: 0;
+}
+header .privacy {
+    color: white;
+    display: inline-block;
+    width: 40%;
+    margin-left: -4px;
+    padding-left: 30px;
+}
+header .search-area {
+    color: white;
+    display: inline-block;
+    width: 20%;
+    margin-left: -150px;
+    text-align: right;
+}
