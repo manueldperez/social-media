@@ -140,7 +140,7 @@ header .search-area {
     margin: 0 2.5%;
     min-width: 500px;
 }
-#content-area .side-column .widget-box {
+#content-area .widget-box {
     padding: 15px;
     margin-bottom: 15px;
     background: #fff;
@@ -149,12 +149,16 @@ header .search-area {
     box-shadow: -2px 4px 8px 0px rgba(0,0,0,0.4);
     overflow: auto;
 }
-#content-area .side-column .widget-box.intro .head .widget-icon-container {
+#content-area .widget-box .widget-icon-container {
     display: inline-block;
 }
-#content-area .side-column .widget-box.intro .head .widget-title {
+#content-area .widget-box .widget-title {
     display: inline-block;
     padding-left: 10px;
+}
+#content-area .widget-box .body {
+    padding-top: 10px;
+    padding-left: 4.8px;
 }
 #content-area .side-column .widget-box.intro .body h6 {
     font-weight: 800;
@@ -170,7 +174,7 @@ header .search-area {
 #content-area .side-column .widget-box.intro .body {
     padding-top: 5px;
 }
-#content-area .side-column .widget-box .widget-img {
+#content-area .widget-box .widget-img {
     background: #BFBFBF;
     height: 40px;
     width: 40px;
@@ -181,17 +185,6 @@ header .search-area {
     justify-content: center;
     font-size: 18px;
     overflow: auto;
-}
-#content-area .side-column .widget-box.photos .widget-icon-container {
-    display: inline-block;
-}
-#content-area .side-column .widget-box.photos .widget-title {
-    display: inline-block;
-    padding-left: 10px;
-}
-#content-area .side-column .widget-box.photos .body {
-    padding-top: 10px;
-    padding-left: 4.8px;
 }
 #content-area .side-column .widget-box.photos .body .img1 {
     display: inline-block;
@@ -283,17 +276,6 @@ header .search-area {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-}
-#content-area .side-column .widget-box.friends .widget-icon-container {
-    display: inline-block;
-}
-#content-area .side-column .widget-box.friends .widget-title {
-    display: inline-block;
-    padding-left: 10px;
-}
-#content-area .side-column .widget-box.friends .body {
-    padding-top: 10px;
-    padding-left: 4.8px;
 }
 #content-area .side-column .widget-box.friends .body .img1 {
     display: inline-block;
@@ -390,4 +372,34 @@ header .search-area {
     float: left;
     width: 55%;
     margin: 0 2.5%;
+}
+#content-area .main-area .widget-box.menu {
+    padding: 0;
+    margin: 0 0 20px 0;
+}
+#content-area .main-area .widget-box.menu ul {
+    padding: 0;
+    padding-top: 5px;
+}
+#content-area .main-area .widget-box.menu ul li {
+    width: 20%;
+    padding: 10px;
+    float: left;
+    text-align: center;
+    border-bottom: 3px solid #fff;
+    transition: all .4s ease-in-out;
+}
+#content-area .main-area .widget-box.menu ul li:nth-child(5) {
+    padding: 28px 0 21px;
+}
+#content-area .main-area .widget-box.menu ul li:hover {
+    border-bottom: 3px solid #4275F5;
+    color: #4275F5;
+    cursor: pointer;
+}
+#content-area .main-area .widget-box.menu ul li span {
+    display: block;
+    margin: 15px 0 0 0;
+    text-transform: uppercase;
+    font-size: 14px;
 }
