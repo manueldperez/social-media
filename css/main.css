@@ -6,6 +6,10 @@ html {
 }
 a {
     text-decoration: none;
+    color:#2d65f5;
+}
+a:hover {
+    color:#002a94;
 }
 /****************************** HEADER ******************************/
 header {
@@ -190,7 +194,7 @@ header .search-area {
     display: inline-block;
     width: 9.5em;
     height: 9.5em;
-    background: url(https://iso.500px.com/wp-content/uploads/2014/06/W4A2827-1.jpg) no-repeat center center; 
+    background: url(https://cdn.pixabay.com/photo/2012/08/27/14/19/mountains-55067__340.png) no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -200,7 +204,7 @@ header .search-area {
     display: inline-block;
     width: 9.5em;
     height: 9.5em;
-    background: url(https://iso.500px.com/wp-content/uploads/2014/06/W4A2827-1.jpg) no-repeat center center; 
+    background: url(https://images.pexels.com/photos/747964/pexels-photo-747964.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500) no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -210,7 +214,7 @@ header .search-area {
     display: inline-block;
     width: 9.5em;
     height: 9.5em;
-    background: url(https://iso.500px.com/wp-content/uploads/2014/06/W4A2827-1.jpg) no-repeat center center; 
+    background: url(https://www.nationalgeographic.com/content/dam/photography/photos/000/000/6.ngsversion.1467942028599.adapt.1900.1.jpg) no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -221,7 +225,7 @@ header .search-area {
     display: inline-block;
     width: 9.5em;
     height: 9.5em;
-    background: url(https://iso.500px.com/wp-content/uploads/2014/06/W4A2827-1.jpg) no-repeat center center; 
+    background: url(https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHw%3D&w=1000&q=80) no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -231,7 +235,7 @@ header .search-area {
     display: inline-block;
     width: 9.5em;
     height: 9.5em;
-    background: url(https://iso.500px.com/wp-content/uploads/2014/06/W4A2827-1.jpg) no-repeat center center; 
+    background: url(https://llandscapes-10674.kxcdn.com/wp-content/uploads/2019/07/lighting.jpg) no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -241,7 +245,7 @@ header .search-area {
     display: inline-block;
     width: 9.5em;
     height: 9.5em;
-    background: url(https://iso.500px.com/wp-content/uploads/2014/06/W4A2827-1.jpg) no-repeat center center; 
+    background: url(https://www.adobe.com/content/dam/cc/us/en/creative-cloud/photography/discover/landscape-photography/CODERED_B1_landscape_P2d_714x348.jpg.img.jpg) no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -251,7 +255,7 @@ header .search-area {
     display: inline-block;
     width: 9.5em;
     height: 9.5em;
-    background: url(https://iso.500px.com/wp-content/uploads/2014/06/W4A2827-1.jpg) no-repeat center center; 
+    background: url(https://static.photocdn.pt/images/articles/2018/12/03/articles/2017_8/mountain-landscape-ponta-delgada-island-azores-picture-id944812540.jpg) no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -261,7 +265,7 @@ header .search-area {
     display: inline-block;
     width: 9.5em;
     height: 9.5em;
-    background: url(https://iso.500px.com/wp-content/uploads/2014/06/W4A2827-1.jpg) no-repeat center center; 
+    background: url(https://ipt.imgix.net/205939/x/0/.jpg?w=860&h=480&fit=crop&auto=format%2C%20compress&dpr=2&ixlib=react-8.6.4) no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -271,7 +275,7 @@ header .search-area {
     display: inline-block;
     width: 9.5em;
     height: 9.5em;
-    background: url(https://iso.500px.com/wp-content/uploads/2014/06/W4A2827-1.jpg) no-repeat center center; 
+    background: url(https://photographylife.com/wp-content/uploads/2017/01/What-is-landscape-photography.jpg) no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -281,7 +285,7 @@ header .search-area {
     display: inline-block;
     width: 9.5em;
     height: 9.5em;
-    background: url(https://iso.500px.com/wp-content/uploads/2014/06/W4A2827-1.jpg) no-repeat center center; 
+    background: url(https://api.poets.org/sites/default/files/styles/poem_a_day_portrait/public/images/biographies/jacquelinewaters_newbioimage2020.png?itok=XnsU_A6K) no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -291,7 +295,7 @@ header .search-area {
     display: inline-block;
     width: 9.5em;
     height: 9.5em;
-    background: url(https://iso.500px.com/wp-content/uploads/2014/06/W4A2827-1.jpg) no-repeat center center; 
+    background: url(https://api.poets.org/sites/default/files/styles/poem_a_day_portrait/public/images/biographies/richardblanco_aap-staff.png?itok=AUiDGPc-) no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -301,7 +305,7 @@ header .search-area {
     display: inline-block;
     width: 9.5em;
     height: 9.5em;
-    background: url(https://iso.500px.com/wp-content/uploads/2014/06/W4A2827-1.jpg) no-repeat center center; 
+    background: url(https://api.poets.org/sites/default/files/styles/poem_a_day_portrait/public/images/biographies/27ef868543abf9c4e16439c1aeb8f0bd.png?itok=G269ob1t) no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -311,7 +315,7 @@ header .search-area {
     display: inline-block;
     width: 9.5em;
     height: 9.5em;
-    background: url(https://iso.500px.com/wp-content/uploads/2014/06/W4A2827-1.jpg) no-repeat center center; 
+    background: url(https://api.poets.org/sites/default/files/styles/poem_a_day_portrait/public/images/biographies/DonnaStonecipher_newbioimage2020.png?itok=PgO67Ul7) no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -321,7 +325,7 @@ header .search-area {
     display: inline-block;
     width: 9.5em;
     height: 9.5em;
-    background: url(https://iso.500px.com/wp-content/uploads/2014/06/W4A2827-1.jpg) no-repeat center center; 
+    background: url(https://api.poets.org/sites/default/files/styles/poem_a_day_portrait/public/images/biographies/IshmaelHope_newbioimage2020.png?itok=VS4acL4X) no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -331,7 +335,7 @@ header .search-area {
     display: inline-block;
     width: 9.5em;
     height: 9.5em;
-    background: url(https://iso.500px.com/wp-content/uploads/2014/06/W4A2827-1.jpg) no-repeat center center; 
+    background: url(https://api.poets.org/sites/default/files/styles/poem_a_day_portrait/public/images/biographies/lewis-warsh_newbioimage_credit%20dan-wonderly-2000x.png?itok=FYUhVcgl) no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -341,7 +345,7 @@ header .search-area {
     display: inline-block;
     width: 9.5em;
     height: 9.5em;
-    background: url(https://iso.500px.com/wp-content/uploads/2014/06/W4A2827-1.jpg) no-repeat center center; 
+    background: url(https://api.poets.org/sites/default/files/styles/poem_a_day_portrait/public/images/biographies/Seema%20Yasmin_NewBioImage2020.png?itok=AIs_-hwl) no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -351,7 +355,7 @@ header .search-area {
     display: inline-block;
     width: 9.5em;
     height: 9.5em;
-    background: url(https://iso.500px.com/wp-content/uploads/2014/06/W4A2827-1.jpg) no-repeat center center; 
+    background: url(https://api.poets.org/sites/default/files/styles/poem_a_day_portrait/public/images/biographies/Mahogany%20L.%20Browne_credit%20Jennie%20Bergqvist-Newbioimage2020.png?itok=I97WyWUj) no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -361,13 +365,13 @@ header .search-area {
     display: inline-block;
     width: 9.5em;
     height: 9.5em;
-    background: url(https://iso.500px.com/wp-content/uploads/2014/06/W4A2827-1.jpg) no-repeat center center; 
+    background: url(https://api.poets.org/sites/default/files/styles/poem_a_day_portrait/public/images/biographies/JanetMcAdams_newbioimage2020.png?itok=4lfLKfnI) no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
-/****************************** CONTENT AREA - MAIN AREA ******************************/
+/****************************** CONTENT AREA - MAIN AREA - MENU ******************************/
 #content-area .main-area {
     float: left;
     width: 55%;
@@ -402,4 +406,99 @@ header .search-area {
     margin: 15px 0 0 0;
     text-transform: uppercase;
     font-size: 14px;
+}
+/****************************** CONTENT AREA - MAIN AREA - POSTS ******************************/
+#content-area .widget-box.post {
+    min-width: 800px;
+}
+#content-area .widget-box .widget-img img {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: 50% 10%;
+}
+#content-area .widget-box.post .widget-title {
+    display: inline-block;
+    padding-left: 10px;
+    transform: translateY(-2px);
+}
+#content-area .main-area .widget-box.post .head .widget-title span {
+    display: block;
+    margin: 8px 0 0 0;
+    text-transform: uppercase;
+    font-size: 12px;
+    color: #4e4e4e;
+}
+#content-area .widget-box.post .body {
+    padding-top: 10px;
+}
+#content-area .main-area .widget-box.post .body .post-img img {
+    width: 100%;
+    height: auto;
+    padding-right: 5px;
+}
+#content-area .main-area .widget-box.post .body .post-icons {
+    color:  #7a7a7a;
+}
+#content-area .main-area .widget-box.post .post-icons .like-icon {
+    display: inline-block;
+    margin: 10px;
+    padding-right: 10px;
+}
+#content-area .main-area .widget-box.post .post-icons .share-icon {
+    display: inline-block;
+    margin: 10px;
+}
+#content-area .main-area .widget-box.post .post-icons .comments-icon {
+    margin: 10px;
+    float: right;
+}
+#content-area .main-area .widget-box.post .post-comments .widget-icon-container {
+    padding-left: 23px;
+    padding-top: 10px;
+}
+#content-area .main-area .widget-box.post .post-comments {
+    margin-left: -20px;
+    margin-right: -14.5px;
+    margin-bottom: 10px;
+    padding: 5px 0 0 0;
+    border-top: 1px solid rgba(155, 155, 155, 0.2);
+    border-bottom: 1px solid rgba(155, 155, 155, 0.2);
+    background: rgba(226, 226, 226, 0.5);
+}
+#content-area .main-area .widget-box.post .post-comments .widget-title {
+    width: 830px;
+    min-width: auto;
+    transform: translateY(-25px);
+}
+#content-area .main-area .widget-box.post .post-comments .widget-title span {
+    float: right;
+}
+#content-area .main-area .widget-box.post .post-comments p {
+    padding: 0 0 5px 77px;
+    transform: translateY(-15px);
+}
+#content-area .main-area .widget-box.post .post-form .widget-icon-container {
+    padding-left: 5px;
+    padding-top: 5px;
+    display: inline-block;
+}
+#content-area .main-area .widget-box.post .post-form .input-text {
+    display: inline-block;
+    padding-left: 10px;
+    transform: translateY(-15px);
+}
+#content-area .main-area .widget-box.post .post-form .input-text input {
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid rgba(185, 185, 185, 0.8);
+    width: 540%;
+    text-size-adjust: 100;
+}
+#content-area .main-area .widget-box.post .post-form .icons {
+    display: inline-block;
+    transform: translateY(-15px);
+    margin: 5px;
+    padding-left: 650px;
 }
