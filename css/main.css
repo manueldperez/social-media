@@ -143,6 +143,7 @@ header .search-area {
     width: 30%;
     margin: 0 2.5%;
     min-width: 500px;
+    max-width: 500px;
 }
 #content-area .widget-box {
     padding: 15px;
@@ -376,6 +377,8 @@ header .search-area {
     float: left;
     width: 55%;
     margin: 0 2.5%;
+    max-width: 925px;
+    min-width: 925px;
 }
 #content-area .main-area .widget-box.menu {
     padding: 0;
